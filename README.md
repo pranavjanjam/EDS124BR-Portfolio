@@ -7,3 +7,6 @@
 ## Week 2
 #### Show What You Know: Write and Explain A Program assignment
 * https://youtu.be/_MQPEYwQCEE
+
+#### Lesson Plan (Animal Parade) assignment/video
+* https://youtu.be/dQRzeFBrDxI
