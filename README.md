@@ -12,5 +12,5 @@
 * https://youtu.be/dQRzeFBrDxI
 
 ## Week 3
-#### Show What You Know: Write and Explain A Program assignment (Nested repeats)
+#### Show What You Know: Write and Explain A Program assignment (Nested Repeats)
 * https://youtu.be/CGM52SrL3cc
