@@ -17,3 +17,7 @@
 
 #### Show What You Know: Write and Explain A Program assignment (Events)
 * https://youtu.be/jkAdDs6YID8
+
+## Week 4
+#### Show What You Know: Write and Explain A Program assignment (Variables)
+* https://youtu.be/-tY2QBzTz4I
