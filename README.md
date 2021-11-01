@@ -21,3 +21,7 @@
 ## Week 4
 #### Show What You Know: Write and Explain A Program assignment (Variables)
 * https://youtu.be/-tY2QBzTz4I
+
+## Week 5
+#### Show What You Know: Write and Explain A Program assignment (Conditional Loops)
+* https://youtu.be/jg9w060qayc
