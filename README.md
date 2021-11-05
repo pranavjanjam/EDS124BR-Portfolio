@@ -25,3 +25,7 @@
 ## Week 5
 #### Show What You Know: Write and Explain A Program assignment (Conditional Loops)
 * https://youtu.be/jg9w060qayc
+
+## Week 6
+#### Show What You Know: Write and Explain A Program assignment (If Statements)
+* https://youtu.be/KDkm-PZ_x8M
