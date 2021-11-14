@@ -29,3 +29,7 @@
 ## Week 6
 #### Show What You Know: Write and Explain A Program assignment (If Statements)
 * https://youtu.be/KDkm-PZ_x8M
+
+## Week 7
+#### Show What You Know: Write and Explain A Program assignment (Nested If-Else Statements)
+* https://youtu.be/1GSJG2vF78w
