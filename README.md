@@ -33,3 +33,7 @@
 ## Week 7
 #### Show What You Know: Write and Explain A Program assignment (Nested If-Else Statements)
 * https://youtu.be/1GSJG2vF78w
+
+## Week 8
+#### Show What You Know: Write and Explain A Program assignment (Compund Conditionals)
+* https://youtu.be/v32R_sbTKVQ
