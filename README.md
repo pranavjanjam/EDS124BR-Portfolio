@@ -37,3 +37,7 @@
 ## Week 8
 #### Show What You Know: Write and Explain A Program assignment (Compund Conditionals)
 * https://youtu.be/v32R_sbTKVQ
+
+## Week 9
+#### Show What You Know: Write and Explain A Program assignment (Abstractions)
+* https://youtu.be/aYrJNe3-cNY
