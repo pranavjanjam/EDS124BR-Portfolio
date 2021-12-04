@@ -41,3 +41,7 @@
 ## Week 9
 #### Show What You Know: Write and Explain A Program assignment (Abstractions)
 * https://youtu.be/aYrJNe3-cNY
+
+## Week 10
+#### Show What You Know: Write and Explain A Program assignment (Lists)
+* https://youtu.be/rSkKmvC1Vlg
